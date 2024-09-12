@@ -26,8 +26,8 @@
 #define FULL_FLEDGED 1
 
 // Adapt here for the corresponding benchmark.
-#define CLIQUE_BENCHMARK 0
-#define CAPPED_COUT_BENCHMARK 1
+#define CLIQUE_BENCHMARK 1
+#define CAPPED_COUT_BENCHMARK 0
 #define CLIQUE_CAPPED_COUT_BENCHMARK 0
 #define CEB_BENCHMARK 0
 

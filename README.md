@@ -24,7 +24,7 @@ All results (even those of individual rounds) are stored in the `benchs` directo
 
 As regards the actual figures:
 * Fig. 6 uses `minmax_dpsub_time` and `minmax_dpconv_instant_boosted_time`.
-* Fig. 8 uses `hybrid_capped_dpsub_time`, `simple_capped_dpsub_time`, and `minplus_dpsub_time`
+* Fig. 8 uses `hybrid_capped_dpsub_time`, `simple_capped_dpsub_time`, and `minplus_dpsub_time`.
 
 ## JOB & CEB
 
