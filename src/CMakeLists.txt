@@ -29,7 +29,6 @@ file(GLOB THIRD_PARTY_FILES
 )
 
 file(GLOB ALGORITHM_FILES
-  "algorithms/DPconv_old.cpp"
   "algorithms/DPsub.cpp"
   "algorithms/DPccp.cpp"
   "algorithms/DPconv.cpp"
